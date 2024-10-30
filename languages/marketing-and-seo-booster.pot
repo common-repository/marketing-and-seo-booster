@@ -1,0 +1,1139 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Marketing and SEO Booster\n"
+"POT-Creation-Date: 2020-08-13 22:18+0300\n"
+"PO-Revision-Date: 2016-02-06 10:39+0700\n"
+"Last-Translator: SecretLab <support@secretlab.pw>\n"
+"Language-Team: SecretLab <support@secretlab.pw>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: inc/class-tgm-plugin-activation.php\n"
+
+#: marketing-and-seo-booster.php:46
+msgid "Select Header"
+msgstr ""
+
+#: marketing-and-seo-booster.php:47
+msgid "Select Footer"
+msgstr ""
+
+#: marketing-and-seo-booster.php:48
+msgid "Select Header Type"
+msgstr ""
+
+#: marketing-and-seo-booster.php:49
+msgid "Image for Header"
+msgstr ""
+
+#: marketing-and-seo-booster.php:50
+msgid "Select Slider"
+msgstr ""
+
+#: marketing-and-seo-booster.php:51
+msgid "Select Page Layout"
+msgstr ""
+
+#: marketing-and-seo-booster.php:52
+msgid "Color"
+msgstr ""
+
+#: marketing-and-seo-booster.php:53
+msgid "Image"
+msgstr ""
+
+#: marketing-and-seo-booster.php:54
+msgid "Repeat"
+msgstr ""
+
+#: marketing-and-seo-booster.php:55
+msgid "Size"
+msgstr ""
+
+#: marketing-and-seo-booster.php:56
+msgid "Attachment"
+msgstr ""
+
+#: marketing-and-seo-booster.php:57
+msgid "Position"
+msgstr ""
+
+#: marketing-and-seo-booster.php:58
+msgid "Select Sidebar Layout"
+msgstr ""
+
+#: marketing-and-seo-booster.php:59
+msgid "Widgets for Left Sidebar"
+msgstr ""
+
+#: marketing-and-seo-booster.php:60
+msgid "Widgets for Right Sidebar"
+msgstr ""
+
+#: marketing-and-seo-booster.php:154
+msgid "Icons Fonts Manager"
+msgstr ""
+
+#: marketing-and-seo-booster.php:155
+msgid "Upload you own icon fonts prepared with an app https://icomoon.io/app/"
+msgstr ""
+
+#: marketing-and-seo-booster.php:160
+msgid "Portfolio Posts"
+msgstr ""
+
+#: marketing-and-seo-booster.php:162
+msgid "Custom post type for portfolio or another content type."
+msgstr ""
+
+#: marketing-and-seo-booster.php:167
+msgid "ABC Split"
+msgstr ""
+
+#: marketing-and-seo-booster.php:168
+msgid "Create pages and compare the conversion rate with the test tool. Split all advertising traffic to 2-4 pages and then measure a result in your analytics system."
+msgstr ""
+
+#: marketing-and-seo-booster.php:173 modules/analytics_codes.php:10
+#: modules/analytics_codes.php:11
+msgid "Analytics Codes"
+msgstr ""
+
+#: marketing-and-seo-booster.php:174
+msgid "Install any analytics and conversion tracking codes."
+msgstr ""
+
+#: marketing-and-seo-booster.php:179 modules/lazy_load.php:62
+#: modules/lazy_load.php:63
+msgid "Lazy Load"
+msgstr ""
+
+#: marketing-and-seo-booster.php:180
+msgid "Lazy load of images and videos"
+msgstr ""
+
+#: marketing-and-seo-booster.php:187 modules/modal_windows.php:27
+#: modules/modal_windows.php:28 modules/modal_windows.php:29
+msgid "Modal Window"
+msgstr ""
+
+#: marketing-and-seo-booster.php:189
+msgid "Create modal windows with rules when to appear. You can build modals with drag&drop builder."
+msgstr ""
+
+#: marketing-and-seo-booster.php:194
+msgid "Unlimited sidebars"
+msgstr ""
+
+#: marketing-and-seo-booster.php:196
+msgid "Create sidebars and select composer blocks to display it anywhere."
+msgstr ""
+
+#: marketing-and-seo-booster.php:201 modules/front_edit_kc.templates.php:89
+msgid "Page Options"
+msgstr ""
+
+#: marketing-and-seo-booster.php:202
+msgid "Convenient user interface tools that save you tons of time!"
+msgstr ""
+
+#: marketing-and-seo-booster.php:207
+msgid "Composer Widget"
+msgstr ""
+
+#: marketing-and-seo-booster.php:209
+msgid "Composer widget lets you create headers, footers, and sidebars with a drag&drop builder with real-time preview."
+msgstr ""
+
+#: marketing-and-seo-booster.php:214
+msgid "Front Editor Page Options"
+msgstr ""
+
+#: marketing-and-seo-booster.php:216
+msgid "Smart top bar tabs with page options."
+msgstr ""
+
+#: marketing-and-seo-booster.php:223
+msgid "SEO Meta"
+msgstr ""
+
+#: marketing-and-seo-booster.php:224
+msgid "SEO meta tags tool: setup your titles, meta keywords and description for post types and pages."
+msgstr ""
+
+#: marketing-and-seo-booster.php:267
+msgid "Clear"
+msgstr ""
+
+#: marketing-and-seo-booster.php:268
+msgid "Clear color"
+msgstr ""
+
+#: marketing-and-seo-booster.php:269
+msgid "Default"
+msgstr ""
+
+#: marketing-and-seo-booster.php:270
+msgid "Select default color"
+msgstr ""
+
+#: marketing-and-seo-booster.php:271
+msgid "Select Color"
+msgstr ""
+
+#: marketing-and-seo-booster.php:272
+msgid "Color value"
+msgstr ""
+
+#: marketing-and-seo-booster.php:304 marketing-and-seo-booster.php:305
+msgid "Marketing"
+msgstr ""
+
+#: marketing-and-seo-booster.php:339
+msgid "SEO and Marketing Booster"
+msgstr ""
+
+#: marketing-and-seo-booster.php:346
+msgid "Choose modules you want to use:"
+msgstr ""
+
+#: marketing-and-seo-booster.php:444 marketing-and-seo-booster.php:488
+msgid "Edit Page"
+msgstr ""
+
+#: marketing-and-seo-booster.php:451 marketing-and-seo-booster.php:495
+msgid "Edit Header"
+msgstr ""
+
+#: marketing-and-seo-booster.php:460 marketing-and-seo-booster.php:504
+msgid "Edit Footer"
+msgstr ""
+
+#: marketing-and-seo-booster.php:544
+msgid "The Theme Support Layer Slider and Slider Revolution, but couldn't find it. Install one of the plug-ins to choose the slider to display in the header."
+msgstr ""
+
+#: modules/abc_split.php:14
+msgid "ABC split"
+msgstr ""
+
+#: modules/abc_split.php:15
+msgid "ABC split test"
+msgstr ""
+
+#: modules/abc_split.php:38
+msgid ""
+"Split testing (also referred to as A/B testing or multivariate testing) is a method of conducting controlled, randomized experiments \n"
+"        with the goal of improving a website metric, such as clicks, form completions, or purchases. Incoming traffic to the website is distributed between the original \n"
+"        (control) and the different variations without any of the visitors knowing that they are part of an experiment. The tester waits for a statistically \n"
+"        significant difference in behavior to emerge. The results from each variation are compared to determine which version showed the greatest improvement."
+msgstr ""
+
+#: modules/abc_split.php:43
+msgid "Compare performance of these pages in your web analytics system."
+msgstr ""
+
+#: modules/abc_split.php:62
+msgid "One more test"
+msgstr ""
+
+#: modules/abc_split.php:89
+msgid "Slug for redirect: use it for incoming traffic"
+msgstr ""
+
+#: modules/abc_split.php:133
+msgid "Pages to redirect"
+msgstr ""
+
+#: modules/abc_split.php:140 modules/abc_split.php:149
+#: modules/abc_split.php:158 modules/abc_split.php:167
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: modules/abc_split.php:256
+msgid "Remove this test"
+msgstr ""
+
+#: modules/abc_split.php:286
+msgid "Clear stats"
+msgstr ""
+
+#: modules/abc_split.php:436
+msgid "You selected the same page, select different pages."
+msgstr ""
+
+#: modules/analytics_codes.php:35
+#, php-format
+msgid "Here you can insert the codes of your analytical systems. But we recommend using %shttps://segment.com%s to connect all your analytics systems, advetising accounts, AB test and marketing funnel tools in 1 place."
+msgstr ""
+
+#: modules/analytics_codes.php:52
+msgid "Analytics Codes:"
+msgstr ""
+
+#: modules/composer_widget.php:27
+msgid "Displays Composer Widget post content in a widget"
+msgstr ""
+
+#: modules/composer_widget.php:31
+msgid "Composer Content Block"
+msgstr ""
+
+#: modules/composer_widget.php:59
+msgid "Composer Widgets to Display:"
+msgstr ""
+
+#: modules/composer_widget.php:85
+msgid "No composer widgets available"
+msgstr ""
+
+#: modules/composer_widget.php:101
+msgid "Edit Composer Widget"
+msgstr ""
+
+#: modules/composer_widget.php:111
+msgid "Show Post Title"
+msgstr ""
+
+#: modules/composer_widget.php:137
+msgid "Find"
+msgstr ""
+
+#: modules/composer_widget.php:196 modules/composer_widget.php:197
+#: modules/composer_widget.php:198
+msgid "Composer Block"
+msgstr ""
+
+#: modules/composer_widget.php:199
+msgid "Add a Composer Block"
+msgstr ""
+
+#: modules/composer_widget.php:200
+msgid "Add a New Composer Block"
+msgstr ""
+
+#: modules/composer_widget.php:201
+msgid "Edit Composer Block"
+msgstr ""
+
+#: modules/composer_widget.php:202
+msgid "New Composer Block"
+msgstr ""
+
+#: modules/composer_widget.php:203
+msgid "View Composer Block"
+msgstr ""
+
+#: modules/composer_widget.php:204
+msgid "Search Composer Block"
+msgstr ""
+
+#: modules/composer_widget.php:205
+msgid "No Composer Block Found"
+msgstr ""
+
+#: modules/composer_widget.php:206
+msgid "No Composer Block found in Trash"
+msgstr ""
+
+#: modules/composer_widget.php:232
+#, php-format
+msgid "Composer Content Block updated. %sManage Widgets%s"
+msgstr ""
+
+#: modules/composer_widget.php:235
+msgid "Composer Content Block updated."
+msgstr ""
+
+#: modules/composer_widget.php:236
+msgid "Custom field updated."
+msgstr ""
+
+#: modules/composer_widget.php:237
+msgid "Custom field deleted."
+msgstr ""
+
+#: modules/composer_widget.php:238
+msgid "Composer Widget updated."
+msgstr ""
+
+#: modules/composer_widget.php:239
+#, php-format
+msgid "Composer Widget restored to revision from %s"
+msgstr ""
+
+#: modules/composer_widget.php:242
+#, php-format
+msgid "Composer Widget published. %sManage Widgets%s"
+msgstr ""
+
+#: modules/composer_widget.php:245
+msgid "Composer Widget published."
+msgstr ""
+
+#: modules/composer_widget.php:246
+msgid "Block saved."
+msgstr ""
+
+#: modules/composer_widget.php:247
+#, php-format
+msgid "Composer Widget submitted. %sManage Widgets%s"
+msgstr ""
+
+#: modules/composer_widget.php:250
+msgid "Composer Widget submitted."
+msgstr ""
+
+#: modules/composer_widget.php:251
+#, php-format
+msgid "Composer widget scheduled for: %1$s."
+msgstr ""
+
+#: modules/composer_widget.php:252
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: modules/composer_widget.php:254
+#, php-format
+msgid "Composer Widget draft updated. %sManage Widgets%s"
+msgstr ""
+
+#: modules/composer_widget.php:257
+msgid "Composer Widget draft updated."
+msgstr ""
+
+#: modules/composer_widget.php:336
+msgid "Select Composer Block Type"
+msgstr ""
+
+#: modules/composer_widget.php:350
+msgid "Header"
+msgstr ""
+
+#: modules/composer_widget.php:351
+msgid "Footer"
+msgstr ""
+
+#: modules/composer_widget.php:352
+msgid "Widget"
+msgstr ""
+
+#: modules/composer_widget.php:363
+msgid "Above Slider"
+msgstr ""
+
+#: modules/composer_widget.php:364
+msgid "Over Slider"
+msgstr ""
+
+#: modules/composer_widget.php:365
+msgid "Below Slider"
+msgstr ""
+
+#: modules/composer_widget.php:379
+msgid "To set sticky menu add id \"stickymenu\" to row you want to stick."
+msgstr ""
+
+#: modules/composer_widget.php:430
+msgid "Composer Block Type"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:25
+msgid "Loading"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:29
+#, php-format
+msgid "Welcome to %sKingComposer Live Editor "
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:36
+msgid "You are using the trial version."
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:37
+msgid " days left"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:39
+msgid "Activate License"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:40
+msgid "Continue Trial"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:46
+msgid "Your free 7-day trial has expired.<br />Please submit license key to use full features of Pro version."
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:49
+msgid "Activate License Now"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:56
+msgid "Check the documentation"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:57
+msgid "Send us your feedback"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:58
+msgid "Join our group discussion if you need help"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:64
+msgid "Don't show again"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:66
+msgid "Watch the quick video"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:71
+msgid "Skip to toolbar"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:75
+msgid "Visit the KingComposer's home page"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:86
+msgid "Content settings"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:105
+msgid "Exit Editor"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:108
+msgid "(ctrl+e)"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:113
+msgid "Back-End Editor"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:116
+msgid "Edit page with backend editor (ctrl+b)"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:121
+msgid "Save Changes"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:124
+msgid "Press Ctrl+S to save content"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:128
+msgid "Enable / Disable inspect elements to edit"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:132
+msgid "Destop Mode"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:136
+#: modules/front_edit_kc.templates.php:140
+msgid "Tablet Mode"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:144
+#: modules/front_edit_kc.templates.php:148
+msgid "Mobile Mode"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:152
+msgid "Click to set custom screen"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:156
+msgid "Redo (ctrl+shift+z)"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:160
+msgid "Undo (ctrl+z)"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:163
+msgid "Videos"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:164
+msgid "Watch the quick tour video"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:167
+msgid "CSS Inspector"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:174
+msgid "Oops, hold on a sec!"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:177
+msgid "Your free 7-day trial expired, You need to verify your license key to do this action and use full of all another premium features."
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:180
+msgid "Enter your license key"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:182
+#, php-format
+msgid "If you've got one %s to login and copy the license"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:186
+msgid "Buy the license"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:187
+msgid "Verify your license"
+msgstr ""
+
+#: modules/lazy_load.php:85
+msgid "To disable lazy load - just add classes with separating by comma, for example: my-image-class-1, my-image-class-2."
+msgstr ""
+
+#: modules/lazy_load.php:105
+msgid "Lazy Load Settings:"
+msgstr ""
+
+#: modules/modal_windows.php:30
+msgid "Add a Modal Window"
+msgstr ""
+
+#: modules/modal_windows.php:31
+msgid "Add a New Modal Window"
+msgstr ""
+
+#: modules/modal_windows.php:32
+msgid "Edit Modal Window"
+msgstr ""
+
+#: modules/modal_windows.php:33
+msgid "New Modal Window"
+msgstr ""
+
+#: modules/modal_windows.php:34
+msgid "View Modal Window"
+msgstr ""
+
+#: modules/modal_windows.php:35
+msgid "Search Modal Window"
+msgstr ""
+
+#: modules/modal_windows.php:36
+msgid "No Modal Window Found"
+msgstr ""
+
+#: modules/modal_windows.php:37
+msgid "No Modal Window found in Trash"
+msgstr ""
+
+#: modules/modal_windows.php:116
+msgid "Select Modal Window Type"
+msgstr ""
+
+#: modules/page_option.php:36
+msgid "Page Settings"
+msgstr ""
+
+#: modules/page_option.php:122 modules/topbar_page_options.php:705
+msgid "Reset Settings"
+msgstr ""
+
+#: modules/page_option.php:131 modules/page_option.php:140
+#: modules/page_option.php:147 modules/page_option.php:154
+#: modules/topbar_page_options.php:127 modules/topbar_page_options.php:136
+#: modules/topbar_page_options.php:143 modules/topbar_page_options.php:150
+msgid "Use Global Settings"
+msgstr ""
+
+#: modules/page_option.php:132 modules/topbar_page_options.php:128
+msgid "No Repeat"
+msgstr ""
+
+#: modules/page_option.php:133 modules/topbar_page_options.php:129
+msgid "Repeat All"
+msgstr ""
+
+#: modules/page_option.php:134 modules/topbar_page_options.php:130
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: modules/page_option.php:135 modules/topbar_page_options.php:131
+msgid "Repeat Vertically"
+msgstr ""
+
+#: modules/page_option.php:136 modules/page_option.php:141
+#: modules/page_option.php:150 modules/topbar_page_options.php:132
+#: modules/topbar_page_options.php:137 modules/topbar_page_options.php:146
+msgid "Inherit"
+msgstr ""
+
+#: modules/page_option.php:142 modules/topbar_page_options.php:138
+msgid "Cover"
+msgstr ""
+
+#: modules/page_option.php:143 modules/topbar_page_options.php:139
+msgid "Contain"
+msgstr ""
+
+#: modules/page_option.php:148 modules/topbar_page_options.php:144
+msgid "Fixed"
+msgstr ""
+
+#: modules/page_option.php:149 modules/topbar_page_options.php:145
+msgid "Scroll"
+msgstr ""
+
+#: modules/page_option.php:155 modules/topbar_page_options.php:151
+msgid "Left Top"
+msgstr ""
+
+#: modules/page_option.php:156 modules/topbar_page_options.php:152
+msgid "Left center"
+msgstr ""
+
+#: modules/page_option.php:157 modules/topbar_page_options.php:153
+msgid "Left Bottom"
+msgstr ""
+
+#: modules/page_option.php:158 modules/topbar_page_options.php:154
+msgid "Center Top"
+msgstr ""
+
+#: modules/page_option.php:159 modules/topbar_page_options.php:155
+msgid "Center Center"
+msgstr ""
+
+#: modules/page_option.php:160 modules/topbar_page_options.php:156
+msgid "Center Bottom"
+msgstr ""
+
+#: modules/page_option.php:161 modules/topbar_page_options.php:157
+msgid "Right Top"
+msgstr ""
+
+#: modules/page_option.php:162 modules/topbar_page_options.php:158
+msgid "Right center"
+msgstr ""
+
+#: modules/page_option.php:163 modules/topbar_page_options.php:159
+msgid "Right Bottom"
+msgstr ""
+
+#: modules/page_option.php:183 modules/topbar_page_options.php:370
+msgid "Boxed Background"
+msgstr ""
+
+#: modules/page_option.php:245 modules/page_option.php:381
+#: modules/topbar_page_options.php:429 modules/topbar_page_options.php:562
+msgid "Add/change"
+msgstr ""
+
+#: modules/page_option.php:247 modules/page_option.php:383
+#: modules/topbar_page_options.php:431 modules/topbar_page_options.php:564
+msgid "Remove"
+msgstr ""
+
+#: modules/page_option.php:320 modules/topbar_page_options.php:504
+msgid "Content Background"
+msgstr ""
+
+#: modules/page_option.php:482 modules/topbar_page_options.php:283
+msgid "Slider"
+msgstr ""
+
+#: modules/page_option.php:484 modules/topbar_page_options.php:285
+msgid "Static Image"
+msgstr ""
+
+#: modules/page_option.php:510 modules/topbar_page_options.php:313
+msgid "Upload Header Image for this Post"
+msgstr ""
+
+#: modules/page_option.php:512 modules/topbar_page_options.php:315
+msgid "Remove Header Image"
+msgstr ""
+
+#: modules/page_option.php:572 modules/topbar_page_options.php:347
+msgid "Use Global Slider"
+msgstr ""
+
+#: modules/page_option.php:610 modules/page_option.php:649
+#: modules/topbar_page_options.php:181 modules/topbar_page_options.php:194
+#: modules/topbar_page_options.php:246
+msgid "Use Global Widget"
+msgstr ""
+
+#: modules/post-types.php:29 modules/post-types.php:30
+#: modules/post-types.php:40
+msgid "Portfolio"
+msgstr ""
+
+#: modules/post-types.php:31
+msgid "Add New"
+msgstr ""
+
+#: modules/post-types.php:32
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: modules/post-types.php:33
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: modules/post-types.php:34
+msgid "New Portfolio Item"
+msgstr ""
+
+#: modules/post-types.php:35
+msgid "View Portfolio Item"
+msgstr ""
+
+#: modules/post-types.php:36
+msgid "Search Portfolio Item"
+msgstr ""
+
+#: modules/post-types.php:37
+msgid "No portfolio found."
+msgstr ""
+
+#: modules/post-types.php:38
+msgid "No portfolio found in Trash."
+msgstr ""
+
+#: modules/seo_titles.php:101 modules/seo_titles.php:102
+#: modules/seo_titles.php:1058 modules/seo_titles.php:1061
+msgid "SEO Titles"
+msgstr ""
+
+#: modules/seo_titles.php:147
+msgid "Separator"
+msgstr ""
+
+#: modules/seo_titles.php:148
+msgid "Homepage"
+msgstr ""
+
+#: modules/seo_titles.php:149
+msgid "Titles"
+msgstr ""
+
+#: modules/seo_titles.php:150
+msgid "Taxonomies"
+msgstr ""
+
+#: modules/seo_titles.php:151 modules/seo_titles.php:696
+msgid "Archives"
+msgstr ""
+
+#: modules/seo_titles.php:155 modules/seo_titles.php:169
+msgid "Title Separator"
+msgstr ""
+
+#: modules/seo_titles.php:171 modules/seo_titles.php:206
+#: modules/seo_titles.php:228 modules/seo_titles.php:249
+#: modules/seo_titles.php:265 modules/seo_titles.php:281
+#: modules/seo_titles.php:296 modules/seo_titles.php:301
+msgid "Title template:"
+msgstr ""
+
+#: modules/seo_titles.php:175 modules/seo_titles.php:210
+#: modules/seo_titles.php:232 modules/seo_titles.php:253
+#: modules/seo_titles.php:269 modules/seo_titles.php:285
+msgid "Meta description template:"
+msgstr ""
+
+#: modules/seo_titles.php:179 modules/seo_titles.php:273
+msgid "Meta keywords template:"
+msgstr ""
+
+#: modules/seo_titles.php:185
+msgid "Homepage &amp; Front page"
+msgstr ""
+
+#: modules/seo_titles.php:187
+#, php-format
+msgid "You can determine the title and description for the front page by %1$sediting the front page itself &raquo;%2$s"
+msgstr ""
+
+#: modules/seo_titles.php:193
+#, php-format
+msgid "You can determine the title and description for the blog page by %1$sediting the blog page itself &raquo;%2$s"
+msgstr ""
+
+#: modules/seo_titles.php:221
+msgid "Custom Post Type Archives"
+msgstr ""
+
+#: modules/seo_titles.php:222
+msgid "Note: instead of templates these are the actual titles and meta descriptions for these custom post type archive pages."
+msgstr ""
+
+#: modules/seo_titles.php:263
+msgid "Author archives settings"
+msgstr ""
+
+#: modules/seo_titles.php:279
+msgid "Date archives settings"
+msgstr ""
+
+#: modules/seo_titles.php:291
+msgid "Special Pages"
+msgstr ""
+
+#: modules/seo_titles.php:292
+#, php-format
+msgid "These pages will be %s by default, so they will never show up in search results."
+msgstr ""
+
+#: modules/seo_titles.php:295
+msgid "Search pages"
+msgstr ""
+
+#: modules/seo_titles.php:300
+msgid "404 pages"
+msgstr ""
+
+#: modules/seo_titles.php:334 modules/seo_titles.php:451
+msgid "MASB SEO"
+msgstr ""
+
+#: modules/seo_titles.php:366
+msgid "SEO Title"
+msgstr ""
+
+#: modules/seo_titles.php:369
+msgid "You can use here:"
+msgstr ""
+
+#: modules/seo_titles.php:382 modules/seo_titles.php:2757
+msgid "Meta description:"
+msgstr ""
+
+#: modules/seo_titles.php:396 modules/seo_titles.php:2777
+msgid "Keywords"
+msgstr ""
+
+#: modules/seo_titles.php:452
+msgid "Title for Author page"
+msgstr ""
+
+#: modules/seo_titles.php:456
+msgid "Meta description for Author page"
+msgstr ""
+
+#: modules/seo_titles.php:460
+msgid "Meta keywords for Author page"
+msgstr ""
+
+#: modules/seo_titles.php:640
+#, php-format
+msgid "Search for \"%s\""
+msgstr ""
+
+#: modules/seo_titles.php:689 modules/seo_titles.php:692
+#: modules/seo_titles.php:694 modules/seo_titles.php:2271
+#, php-format
+msgid "%s Archives"
+msgstr ""
+
+#: modules/seo_titles.php:704 modules/seo_titles.php:2232
+msgid "Page not found"
+msgstr ""
+
+#: modules/seo_titles.php:942
+msgid "Admin only notice: this page doesn't show a meta description because it doesn't have one, either write it for this page specifically or go into the SEO -> Titles menu and set up a template."
+msgstr ""
+
+#: modules/seo_titles.php:1879
+#, php-format
+msgid "Page %1$d of %2$d"
+msgstr ""
+
+#: modules/seo_titles.php:2227
+#, php-format
+msgid "%1$s, Author at %2$s"
+msgstr ""
+
+#: modules/seo_titles.php:2230
+#, php-format
+msgid "You searched for %s"
+msgstr ""
+
+#: modules/seo_titles.php:2256
+#, php-format
+msgid "%s Archive"
+msgstr ""
+
+#: modules/sidebars.php:63
+msgid "Create a Sidebar"
+msgstr ""
+
+#: modules/sidebars.php:69 modules/sidebars.php:70
+msgid "Name"
+msgstr ""
+
+#: modules/sidebars.php:74
+msgid "Create Sidebar"
+msgstr ""
+
+#: modules/sl-icons-manager.php:103 modules/sl-icons-manager.php:104
+msgid "Icon Manager"
+msgstr ""
+
+#: modules/sl-icons-manager.php:145
+msgid "Icon Fonts Manager"
+msgstr ""
+
+#: modules/sl-icons-manager.php:146
+msgid "Upload New Icons"
+msgstr ""
+
+#: modules/sl-icons-manager.php:152
+msgid "Search by icon name"
+msgstr ""
+
+#: modules/sl-icons-manager.php:153
+msgid "Search"
+msgstr ""
+
+#: modules/sl-icons-manager.php:162
+msgid "No font icons uploaded. Upload some font icons to display here."
+msgstr ""
+
+#: modules/sl-icons-manager.php:196 modules/sl-icons-manager.php:197
+msgid "Delete This Icon Set"
+msgstr ""
+
+#: modules/sl-icons-manager.php:272
+msgid "Was not able to retrieve the Font name from your Uploaded Folder"
+msgstr ""
+
+#: modules/sl-icons-manager.php:275
+msgid "font_added:"
+msgstr ""
+
+#: modules/sl-icons-manager.php:289
+msgid "Wasn't able to create temp folder"
+msgstr ""
+
+#: modules/sl-icons-manager.php:330
+msgid "Unable to extract the file."
+msgstr ""
+
+#: modules/sl-icons-manager.php:342
+msgid "Wasn't able to read font name"
+msgstr ""
+
+#: modules/sl-icons-manager.php:345
+msgid "Wasn't able get font files from archive"
+msgstr ""
+
+#: modules/sl-icons-manager.php:348
+msgid "Wasn't able to work with Zip Archive"
+msgstr ""
+
+#: modules/sl-icons-manager.php:430
+msgid "Unable to write css. Upload icons downloaded only from icomoon"
+msgstr ""
+
+#: modules/sl-icons-manager.php:512
+msgid "You have loaded any Icon Fonts yet"
+msgstr ""
+
+#: modules/sl-icons-manager.php:575
+msgid "Upload Icons Set"
+msgstr ""
+
+#: modules/sl-icons-manager.php:591
+msgid "Default icon font uploading error. Remote server did not respond"
+msgstr ""
+
+#: modules/sl-icons-manager.php:603
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: modules/topbar_page_options.php:44
+msgid "Error: secure session is invalid. Reload and try again"
+msgstr ""
+
+#: modules/topbar_page_options.php:46
+msgid "Saving page options"
+msgstr ""
+
+#: modules/topbar_page_options.php:103
+msgid "Design"
+msgstr ""
+
+#: modules/topbar_page_options.php:104
+msgid "Background"
+msgstr ""
+
+#: modules/topbar_page_options.php:105
+msgid "Sidebar"
+msgstr ""
+
+#: modules/topbar_page_options.php:107
+msgid "SEO"
+msgstr ""
+
+#: modules/topbar_page_options.php:203 modules/topbar_page_options.php:210
+msgid "Live Edit Header"
+msgstr ""
+
+#: modules/topbar_page_options.php:255 modules/topbar_page_options.php:262
+msgid "Live Edit Footer"
+msgstr ""
+
+#: modules/topbar_page_options.php:707 modules/topbar_page_options.php:732
+msgid "Save Page settings"
+msgstr ""
+
+#: modules/topbar_page_options.php:768
+msgid "Edit The Header"
+msgstr ""
+
+#: modules/topbar_page_options.php:772 modules/topbar_page_options.php:801
+msgid "Check enabled of \"Composer Widget\" module, please."
+msgstr ""
+
+#: modules/topbar_page_options.php:797
+msgid "Edit The Footer"
+msgstr ""
+
+#: modules/topbar_page_options.php:871
+msgid "This data was already saved"
+msgstr ""
+
+#: modules/topbar_page_options.php:874 modules/topbar_page_options.php:880
+msgid "Page data saved"
+msgstr ""
+
+#: modules/topbar_page_options.php:885 modules/topbar_page_options.php:915
+msgid "You can't edit this page"
+msgstr ""
+
+#: modules/topbar_page_options.php:888 modules/topbar_page_options.php:918
+msgid "Wrong page settings"
+msgstr ""
+
+#: modules/topbar_page_options.php:913
+msgid "Composer Block type saved"
+msgstr ""

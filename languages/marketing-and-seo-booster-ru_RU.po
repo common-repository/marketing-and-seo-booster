@@ -1,0 +1,1105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Atiframe\n"
+"POT-Creation-Date: 2019-02-25 11:18+0300\n"
+"PO-Revision-Date: 2019-07-23 21:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: SecretLab <support@secretlab.pw>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: .idea\n"
+"X-Poedit-SearchPathExcluded-2: inc/class-tgm-plugin-activation.php\n"
+
+#: index.php:47
+msgid "Marketing"
+msgstr "Маркетинг"
+
+#: modules/abc_split.php:9
+msgid "ABC split"
+msgstr "ABC сравнение"
+
+#: modules/abc_split.php:9
+msgid "ABC split test"
+msgstr "ABC сравнительный тест"
+
+#: modules/abc_split.php:28
+msgid ""
+"Split testing (also referred to as A/B testing or multivariate testing) is a "
+"method of conducting controlled, randomized experiments \n"
+"        with the goal of improving a website metric, such as clicks, form "
+"completions, or purchases. Incoming traffic to the website is distributed "
+"between the original \n"
+"        (control) and the different variations without any of the visitors "
+"knowing that they are part of an experiment. The tester waits for a "
+"statistically \n"
+"        significant difference in behavior to emerge. The results from each "
+"variation are compared to determine which version showed the greatest "
+"improvement."
+msgstr ""
+"Сравнительное тестирование, также известное, как AB-тестирование или ABn-"
+"тестирование - это метод сравнительного выявления более продуктивных моделей "
+"внутри сайта. То есть мы сравниванием, какая страница получает больше заявок "
+"от клиентов, покупок или других нужных нам действий. Страницы могут "
+"отличаться полностью или только одним элементом. \n"
+"\n"
+"Данная функция позволяет создать адрес страницы, который равномерно "
+"распределяет посетителей по выбранным нами страницам. То есть мы просто "
+"отправляем посетителей с рекламы на этот адрес. Мы можем добавить или "
+"удалить страницы из этого адреса в любой момент, чтобы оставлять только "
+"самые эффективные страницы или начать новый эксперимент.\n"
+"\n"
+"Функция сохраняет UTM-метку при перенаправлении."
+
+#: modules/abc_split.php:32
+msgid "Compare performance of these pages in your web analytics system."
+msgstr "Сравнивайте конверсию этих страниц в вашей системе аналитики."
+
+#: modules/abc_split.php:44
+msgid "One more test"
+msgstr "Еще одни тест"
+
+#: modules/abc_split.php:110
+msgid "You selected the same page, select different pages."
+msgstr "Вы выбрали одинаковые страницы, выберите разные."
+
+#: modules/abc_split.php:135
+msgid "Slug for redirect: use it for incoming traffic"
+msgstr ""
+"Адрес перенаправляющей страницы: используйте этот адрес для входящего "
+"трафика."
+
+#: modules/abc_split.php:172
+msgid "Pages to redirect"
+msgstr "Страницы для перенаправления"
+
+#: modules/abc_split.php:174 modules/abc_split.php:175
+#: modules/abc_split.php:176 modules/abc_split.php:177
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Выбрать &mdash;"
+
+#: modules/abc_split.php:257
+msgid "Remove this test"
+msgstr "Удалить данный тест"
+
+#: modules/abc_split.php:280
+msgid "Clear stats"
+msgstr "Очистить статистику"
+
+#: modules/analytics_codes.php:9
+msgid "Analytics Codes"
+msgstr "Коды аналитики"
+
+#: modules/analytics_codes.php:27
+msgid ""
+"Here you can insert the codes of your analytical systems. But we recommend "
+"using <a href=\"https://segment.com\" rel=\"nofollow\" target=\"_blank"
+"\">https://segment.com</a> to connect all your analytics systems, advetising "
+"accounts, AB test and marketing funnel tools in 1 place."
+msgstr ""
+"Добавьте ваши коды аналитики, такие, как Яндекс.Метрика и Google Analytics."
+
+#: modules/analytics_codes.php:43
+msgid "Analytics Codes:"
+msgstr "Коды:"
+
+#: modules/composer_widget.php:27
+msgid "Displays Composer Widget post content in a widget"
+msgstr "Отображает содержимое виджета Composer  в виджете"
+
+#: modules/composer_widget.php:28
+msgid "Composer Content Block"
+msgstr "Визуальный Блок с контентом"
+
+#: modules/composer_widget.php:59
+msgid "Composer Widgets to Display:"
+msgstr "Composer виджеты для отображения:"
+
+#: modules/composer_widget.php:77
+msgid "No composer widgets available"
+msgstr "Нет доступных Composer виджетов"
+
+#: modules/composer_widget.php:88
+msgid "Edit Composer Widget"
+msgstr "Править виджет Composer"
+
+#: modules/composer_widget.php:94
+msgid "Show Post Title"
+msgstr "Показать заголовок записи"
+
+#: modules/composer_widget.php:99
+msgid "Show featured image"
+msgstr "Показать изображение записи"
+
+#: modules/composer_widget.php:104
+msgid "Do not apply content filters"
+msgstr "Не применять фильтр контента"
+
+#: modules/composer_widget.php:123
+msgid "Find"
+msgstr "Найти"
+
+#: modules/composer_widget.php:161 modules/composer_widget.php:162
+#: modules/composer_widget.php:163
+msgid "Composer Block"
+msgstr "Визуальный блок"
+
+#: modules/composer_widget.php:164
+msgid "Add a Composer Block"
+msgstr "Добавить визуальный блок"
+
+#: modules/composer_widget.php:165
+msgid "Add a New Composer Block"
+msgstr "Добавить новый Визуальный блок"
+
+#: modules/composer_widget.php:166
+msgid "Edit Composer Block"
+msgstr "Править Визуальный Блок"
+
+#: modules/composer_widget.php:167
+msgid "New Composer Block"
+msgstr "Новый Визуальный Блок"
+
+#: modules/composer_widget.php:168
+msgid "View Composer Block"
+msgstr "Просмотреть Визуальный Блок"
+
+#: modules/composer_widget.php:169
+msgid "Search Composer Block"
+msgstr "Найти Визуальный Блок"
+
+#: modules/composer_widget.php:170
+msgid "No Composer Block Found"
+msgstr "Ни один Визуальный Блок не найден"
+
+#: modules/composer_widget.php:171
+msgid "No Composer Block found in Trash"
+msgstr "Ни один Визуальный Блок не найден в корзине"
+
+#: modules/composer_widget.php:195
+#, php-format
+msgid "Composer Content Block updated. <a href=\"%s\">Manage Widgets</a>"
+msgstr ""
+"Обновлено содержимое Визуальный Блок. <a href=\"%s\">Управление виджетами</a>"
+
+#: modules/composer_widget.php:195
+msgid "Composer Content Block updated."
+msgstr "Обновлено содержимое Визуального Блока."
+
+#: modules/composer_widget.php:196
+msgid "Custom field updated."
+msgstr "Пользовательское поле обновлено."
+
+#: modules/composer_widget.php:197
+msgid "Custom field deleted."
+msgstr "Пользовательское поле удалено"
+
+#: modules/composer_widget.php:198
+msgid "Composer Widget updated."
+msgstr "Composer виджет обновлен."
+
+#: modules/composer_widget.php:199
+#, php-format
+msgid "Composer Widget restored to revision from %s"
+msgstr "Composer виджет восстановлен к редакции от %s"
+
+#: modules/composer_widget.php:200
+#, php-format
+msgid "Composer Widget published. <a href=\"%s\">Manage Widgets</a>"
+msgstr "Composer виджет опубликован. <a href=\"%s\">Управление виджетами</a>"
+
+#: modules/composer_widget.php:200
+msgid "Composer Widget published."
+msgstr "Composer виджет опубликован."
+
+#: modules/composer_widget.php:201
+msgid "Block saved."
+msgstr "Блок сохранен."
+
+#: modules/composer_widget.php:202
+#, php-format
+msgid "Composer Widget submitted. <a href=\"%s\">Manage Widgets</a>"
+msgstr "Composer виджет подтвержден. <a href=\"%s\">Управление виджетами</a>"
+
+#: modules/composer_widget.php:202
+msgid "Composer Widget submitted."
+msgstr "Composer виджет подтвержден."
+
+#: modules/composer_widget.php:203
+#, php-format
+msgid "Composer widget scheduled for: <strong>%1$s</strong>."
+msgstr "Composer виджет запланирован: <strong>%1$s</strong>."
+
+#: modules/composer_widget.php:203
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: modules/composer_widget.php:204
+#, php-format
+msgid "Composer Widget draft updated. <a href=\"%s\">Manage Widgets</a>"
+msgstr ""
+"Обновлен проект Composer  виджета. <a href=\"%s\">Управление виджетами</a>"
+
+#: modules/composer_widget.php:204
+msgid "Composer Widget draft updated."
+msgstr "Обновлен проект Composer  виджета."
+
+#: modules/composer_widget.php:289
+msgid "Select Composer Block Type"
+msgstr "Выберите тип Визуального Блока"
+
+#: modules/composer_widget.php:302
+msgid "Header"
+msgstr "Шапка сайта"
+
+#: modules/composer_widget.php:303
+msgid "Footer"
+msgstr "Подвал сайта"
+
+#: modules/composer_widget.php:304
+msgid "Widget"
+msgstr "Виджет"
+
+#: modules/composer_widget.php:313
+msgid "Above Slider"
+msgstr "Над слайдером"
+
+#: modules/composer_widget.php:314
+msgid "Over Slider"
+msgstr "Поверх слайдера"
+
+#: modules/composer_widget.php:315
+msgid "Below Slider"
+msgstr "Ниже слайдера"
+
+#: modules/composer_widget.php:329
+msgid "To set sticky menu add id \"stickymenu\" to row you want to stick."
+msgstr ""
+"Чтобы добавить прилипание блока при прокрутке, добавьте в настройки строки "
+"идентификатор \"stickymenu\""
+
+#: modules/composer_widget.php:368
+msgid "Composer Block Type"
+msgstr "Тип Визуального Блока"
+
+#: modules/front_edit_kc.templates.php:25
+msgid "Loading"
+msgstr "Загрузка"
+
+#: modules/front_edit_kc.templates.php:29
+#, php-format
+msgid "Welcome to %sKingComposer Live Editor "
+msgstr "Добро пожаловать в Живой редактор  %sKingComposer"
+
+#: modules/front_edit_kc.templates.php:36
+msgid "You are using the trial version."
+msgstr "Вы используете пробную версию."
+
+#: modules/front_edit_kc.templates.php:37
+msgid " days left"
+msgstr " дней осталось"
+
+#: modules/front_edit_kc.templates.php:39
+msgid "Activate License"
+msgstr "Активировать лицензию"
+
+#: modules/front_edit_kc.templates.php:40
+msgid "Continue Trial"
+msgstr "Продолжить использование пробной версии"
+
+#: modules/front_edit_kc.templates.php:46
+msgid ""
+"Your free 7-day trial has expired.<br />Please submit license key to use "
+"full features of Pro version."
+msgstr ""
+"Ваша 7-ми дневная пробная версия закончилась. <br />Пожалуйста введите "
+"лицензионный ключ, чтобы использовать все возможности Про версии."
+
+#: modules/front_edit_kc.templates.php:49
+msgid "Activate License Now"
+msgstr "Активировать лицензию сейчас"
+
+#: modules/front_edit_kc.templates.php:56
+msgid "Check the documentation"
+msgstr "Проверить документацию"
+
+#: modules/front_edit_kc.templates.php:57
+msgid "Send us your feedback"
+msgstr "Напиши свое мнение нам"
+
+#: modules/front_edit_kc.templates.php:58
+msgid "Join our group discussion if you need help"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:64
+msgid "Don't show again"
+msgstr "Не показывать снова"
+
+#: modules/front_edit_kc.templates.php:66
+msgid "Watch the quick video"
+msgstr "Смотреть короткое видео на английском"
+
+#: modules/front_edit_kc.templates.php:71
+msgid "Skip to toolbar"
+msgstr "Пропустить"
+
+#: modules/front_edit_kc.templates.php:75
+msgid "Visit the KingComposer's home page"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:86
+msgid "Content settings"
+msgstr "Настройки контента"
+
+#: modules/front_edit_kc.templates.php:89
+msgid "Page Options"
+msgstr "Настройки страницы"
+
+#: modules/front_edit_kc.templates.php:105
+msgid "Exit Editor"
+msgstr "Выйти из редактора"
+
+#: modules/front_edit_kc.templates.php:108
+msgid "(ctrl+e)"
+msgstr ""
+
+#: modules/front_edit_kc.templates.php:113
+msgid "Back-End Editor"
+msgstr "Редактор в админ-зоне"
+
+#: modules/front_edit_kc.templates.php:116
+msgid "Edit page with backend editor (ctrl+b)"
+msgstr "Редактировать страницы с редактором в админ-зоне (ctrl+b)"
+
+#: modules/front_edit_kc.templates.php:121
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: modules/front_edit_kc.templates.php:124
+msgid "Press Ctrl+S to save content"
+msgstr "Нажмите Ctrl+S для сохранения контента"
+
+#: modules/front_edit_kc.templates.php:128
+msgid "Enable / Disable inspect elements to edit"
+msgstr "Включить / выключить инспектор элементов"
+
+#: modules/front_edit_kc.templates.php:132
+msgid "Destop Mode"
+msgstr "Режим настольного компьютера"
+
+#: modules/front_edit_kc.templates.php:136
+#: modules/front_edit_kc.templates.php:140
+msgid "Tablet Mode"
+msgstr "Режим планшета"
+
+#: modules/front_edit_kc.templates.php:144
+#: modules/front_edit_kc.templates.php:148
+msgid "Mobile Mode"
+msgstr "Режим мобильного телефона"
+
+#: modules/front_edit_kc.templates.php:152
+msgid "Click to set custom screen"
+msgstr "Нажать, чтобы установить свой размер экрана"
+
+#: modules/front_edit_kc.templates.php:156
+msgid "Redo (ctrl+shift+z)"
+msgstr "Вернуть  (ctrl+shift+z)"
+
+#: modules/front_edit_kc.templates.php:160
+msgid "Undo (ctrl+z)"
+msgstr "Отменить (ctrl+z)"
+
+#: modules/front_edit_kc.templates.php:163
+msgid "Videos"
+msgstr "Видео"
+
+#: modules/front_edit_kc.templates.php:164
+msgid "Watch the quick tour video"
+msgstr "Смотрите краткий видео тур на английском"
+
+#: modules/front_edit_kc.templates.php:167
+msgid "CSS Inspector"
+msgstr "CSS инспектор"
+
+#: modules/front_edit_kc.templates.php:174
+msgid "Oops, hold on a sec!"
+msgstr "Упс, подождите секунду!"
+
+#: modules/front_edit_kc.templates.php:177
+msgid ""
+"Your free 7-day trial expired, You need to verify your license key to do "
+"this action and use full of all another premium features."
+msgstr ""
+"Срок действия бесплатной 7-дневной пробной версии истек. Чтобы выполнить это "
+"действие, необходимо подтвердить свой лицензионный ключ и использовать все "
+"другие дополнительные функции."
+
+#: modules/front_edit_kc.templates.php:180
+msgid "Enter your license key"
+msgstr "Введите ваш лицензионный ключ"
+
+#: modules/front_edit_kc.templates.php:182
+#, php-format
+msgid "If you've got one %s to login and copy the license"
+msgstr "Вам нужно войти %s и скопировать лицензионный ключ"
+
+#: modules/front_edit_kc.templates.php:186
+msgid "Buy the license"
+msgstr "Купить лицензию"
+
+#: modules/front_edit_kc.templates.php:187
+msgid "Verify your license"
+msgstr "Подтвердить лицензию"
+
+#: modules/functions.php:22 modules/functions.php:49
+msgid "Edit Page"
+msgstr "Редактировать страницу"
+
+#: modules/functions.php:24 modules/functions.php:51
+msgid "Edit Header"
+msgstr "Редактировать шапку сайта"
+
+#: modules/functions.php:27 modules/functions.php:54
+msgid "Edit Footer"
+msgstr "Редактировать подвал сайта"
+
+#: modules/functions.php:94
+msgid ""
+"The Theme Support Layer Slider and Slider Revolution, but couldn't find it. "
+"Install one of the plug-ins to choose the slider to display in the header."
+msgstr ""
+"Тема поддерживает Layer Slider и Slider Revolution, но не смогла найти их. "
+"Установите один из плагинов, чтобы выбрать слайдер для отображения в шапке."
+
+#: modules/modal_windows.php:27 modules/modal_windows.php:28
+#: modules/modal_windows.php:29
+msgid "Modal Window"
+msgstr "Модальные окна"
+
+#: modules/modal_windows.php:30
+msgid "Add a Modal Window"
+msgstr "Добавить модальное окно"
+
+#: modules/modal_windows.php:31
+msgid "Add a New Modal Window"
+msgstr "Добавить новое модальное окно"
+
+#: modules/modal_windows.php:32
+msgid "Edit Modal Window"
+msgstr "Редактировать модальное окно"
+
+#: modules/modal_windows.php:33
+msgid "New Modal Window"
+msgstr "Новое модальное окно"
+
+#: modules/modal_windows.php:34
+msgid "View Modal Window"
+msgstr "Смотреть модальное окно"
+
+#: modules/modal_windows.php:35
+msgid "Search Modal Window"
+msgstr "Искать модальное окно"
+
+#: modules/modal_windows.php:36
+msgid "No Modal Window Found"
+msgstr "Модальное окно не найдено."
+
+#: modules/modal_windows.php:37
+msgid "No Modal Window found in Trash"
+msgstr "Модальное окно в корзине не найдено."
+
+#: modules/modal_windows.php:113
+msgid "Select Modal Window Type"
+msgstr "Выберите тип модального окна"
+
+#: modules/page_option.php:24
+msgid "Select Header"
+msgstr "Выберать шапку сайта"
+
+#: modules/page_option.php:25
+msgid "Select Footer"
+msgstr "Выбрать подвал сайта"
+
+#: modules/page_option.php:26
+msgid "Select Header Type"
+msgstr "Выберите тип Шапки Сайта"
+
+#: modules/page_option.php:27
+msgid "Image for Header"
+msgstr "Изображение для Шапки сайта"
+
+#: modules/page_option.php:28
+msgid "Select Slider"
+msgstr "Выбрать слайдер"
+
+#: modules/page_option.php:29
+msgid "Select Page Layout"
+msgstr "Выберите макет (стиль) страницы"
+
+#: modules/page_option.php:30
+msgid "Color"
+msgstr "Цвет"
+
+#: modules/page_option.php:31
+msgid "Image"
+msgstr "Изображение"
+
+#: modules/page_option.php:32
+msgid "Repeat"
+msgstr "Повторять"
+
+#: modules/page_option.php:33
+msgid "Size"
+msgstr "Размер"
+
+#: modules/page_option.php:34
+msgid "Attachment"
+msgstr "Вложение"
+
+#: modules/page_option.php:35
+msgid "Position"
+msgstr "Расположение"
+
+#: modules/page_option.php:36
+msgid "Select Sidebar Layout"
+msgstr "Выбрать расположение сайдбаров"
+
+#: modules/page_option.php:37
+msgid "Widgets for Left Sidebar"
+msgstr "Виджеты Левого Сайдбара"
+
+#: modules/page_option.php:38
+msgid "Widgets for Right Sidebar"
+msgstr "Виджеты Правого Сайдбара"
+
+#: modules/page_option.php:136
+msgid "Page Settings"
+msgstr "Настройки страницы"
+
+#: modules/page_option.php:203 modules/topbar_page_options.php:681
+msgid "Reset Settings"
+msgstr "Сбросить настройки"
+
+#: modules/page_option.php:211 modules/page_option.php:220
+#: modules/page_option.php:227 modules/page_option.php:234
+#: modules/topbar_page_options.php:117 modules/topbar_page_options.php:126
+#: modules/topbar_page_options.php:133 modules/topbar_page_options.php:140
+msgid "Use Global Settings"
+msgstr "Использовать общие Настройки"
+
+#: modules/page_option.php:212 modules/topbar_page_options.php:118
+msgid "No Repeat"
+msgstr "Не повторять"
+
+#: modules/page_option.php:213 modules/topbar_page_options.php:119
+msgid "Repeat All"
+msgstr "Повторить все"
+
+#: modules/page_option.php:214 modules/topbar_page_options.php:120
+msgid "Repeat Horizontally"
+msgstr "Повторять по горизонтали"
+
+#: modules/page_option.php:215 modules/topbar_page_options.php:121
+msgid "Repeat Vertically"
+msgstr "Повторять по вертикали"
+
+#: modules/page_option.php:216 modules/page_option.php:221
+#: modules/page_option.php:230 modules/topbar_page_options.php:122
+#: modules/topbar_page_options.php:127 modules/topbar_page_options.php:136
+msgid "Inherit"
+msgstr "Наследовать"
+
+#: modules/page_option.php:222 modules/topbar_page_options.php:128
+msgid "Cover"
+msgstr "Охватить"
+
+#: modules/page_option.php:223 modules/topbar_page_options.php:129
+msgid "Contain"
+msgstr "Вместить"
+
+#: modules/page_option.php:228 modules/topbar_page_options.php:134
+msgid "Fixed"
+msgstr "Фиксировать"
+
+#: modules/page_option.php:229 modules/topbar_page_options.php:135
+msgid "Scroll"
+msgstr "Прокрутка"
+
+#: modules/page_option.php:235 modules/topbar_page_options.php:141
+msgid "Left Top"
+msgstr "Слева Сверху"
+
+#: modules/page_option.php:236 modules/topbar_page_options.php:142
+msgid "Left center"
+msgstr "Слева По Центру"
+
+#: modules/page_option.php:237 modules/topbar_page_options.php:143
+msgid "Left Bottom"
+msgstr "Слева Снизу"
+
+#: modules/page_option.php:238 modules/topbar_page_options.php:144
+msgid "Center Top"
+msgstr "По Центру Сверху"
+
+#: modules/page_option.php:239 modules/topbar_page_options.php:145
+msgid "Center Center"
+msgstr "По Центру"
+
+#: modules/page_option.php:240 modules/topbar_page_options.php:146
+msgid "Center Bottom"
+msgstr "По Центру Снизу"
+
+#: modules/page_option.php:241 modules/topbar_page_options.php:147
+msgid "Right Top"
+msgstr "Справа Сверху"
+
+#: modules/page_option.php:242 modules/topbar_page_options.php:148
+msgid "Right center"
+msgstr "Справа По Центру"
+
+#: modules/page_option.php:243 modules/topbar_page_options.php:149
+msgid "Right Bottom"
+msgstr "Справа Снизу"
+
+#: modules/page_option.php:258 modules/topbar_page_options.php:313
+msgid "Boxed Background"
+msgstr "Фон Блока Контента"
+
+#: modules/page_option.php:310 modules/page_option.php:440
+#: modules/topbar_page_options.php:369 modules/topbar_page_options.php:523
+msgid "Add/change"
+msgstr "Добавить/изменить"
+
+#: modules/page_option.php:311 modules/page_option.php:441
+#: modules/topbar_page_options.php:370 modules/topbar_page_options.php:524
+msgid "Remove"
+msgstr "Удалить"
+
+#: modules/page_option.php:389 modules/topbar_page_options.php:468
+msgid "Content Background"
+msgstr "Фона контента"
+
+#: modules/page_option.php:529 modules/topbar_page_options.php:244
+msgid "Slider"
+msgstr "Слайдер"
+
+#: modules/page_option.php:530 modules/topbar_page_options.php:245
+msgid "Static Image"
+msgstr "Статическое Изображение"
+
+#: modules/page_option.php:543 modules/topbar_page_options.php:272
+msgid "Upload Header Image for this Post"
+msgstr "Загрузить изображение для Шапки этой страницы"
+
+#: modules/page_option.php:544 modules/topbar_page_options.php:273
+msgid "Remove Header Image"
+msgstr "Удалить изображение из Шапки"
+
+#: modules/page_option.php:586 modules/topbar_page_options.php:296
+msgid "Use Global Slider"
+msgstr "Использовать глобальный Слайдер"
+
+#: modules/page_option.php:610 modules/page_option.php:634
+#: modules/topbar_page_options.php:171 modules/topbar_page_options.php:210
+msgid "Use Global Widget"
+msgstr "Использовать глобальный Виджет"
+
+#: modules/post-types.php:30 modules/post-types.php:31
+#: modules/post-types.php:41
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: modules/post-types.php:32
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: modules/post-types.php:33
+msgid "Add New Portfolio Item"
+msgstr "Добавить новый пример портфолио"
+
+#: modules/post-types.php:34
+msgid "Edit Portfolio Item"
+msgstr "Редактировать портфолио"
+
+#: modules/post-types.php:35
+msgid "New Portfolio Item"
+msgstr "Новый пример портфолио"
+
+#: modules/post-types.php:36
+msgid "View Portfolio Item"
+msgstr "Просмотреть пример портфолио"
+
+#: modules/post-types.php:37
+msgid "Search Portfolio Item"
+msgstr "Искать объект портфолио"
+
+#: modules/post-types.php:38
+msgid "No portfolio found."
+msgstr "Портфолио не найдено."
+
+#: modules/post-types.php:39
+msgid "No portfolio found in Trash."
+msgstr "Портфолио в корзине не найдено."
+
+#: modules/seo_titles.php:90
+msgid "SEO Titles"
+msgstr "SEO заголовки"
+
+#: modules/seo_titles.php:134
+msgid "Separator"
+msgstr "Разделитель"
+
+#: modules/seo_titles.php:135
+msgid "Homepage"
+msgstr "Главная страницы"
+
+#: modules/seo_titles.php:136
+msgid "Titles"
+msgstr "Заголовки"
+
+#: modules/seo_titles.php:137
+msgid "Taxonomies"
+msgstr "Таксономии/типы постов"
+
+#: modules/seo_titles.php:138 modules/seo_titles.php:612
+msgid "Archives"
+msgstr "Архивы"
+
+#: modules/seo_titles.php:142 modules/seo_titles.php:154
+msgid "Title Separator"
+msgstr "Разделитель заголовка"
+
+#: modules/seo_titles.php:156 modules/seo_titles.php:183
+#: modules/seo_titles.php:202 modules/seo_titles.php:221
+#: modules/seo_titles.php:234 modules/seo_titles.php:246
+#: modules/seo_titles.php:257 modules/seo_titles.php:261
+msgid "Title template:"
+msgstr "Шаблон заголовка: "
+
+#: modules/seo_titles.php:159 modules/seo_titles.php:186
+#: modules/seo_titles.php:205 modules/seo_titles.php:224
+#: modules/seo_titles.php:237 modules/seo_titles.php:249
+msgid "Meta description template:"
+msgstr "Шаблон мета описания: "
+
+#: modules/seo_titles.php:162 modules/seo_titles.php:240
+msgid "Meta keywords template:"
+msgstr "Шаблон мета ключевых слов: "
+
+#: modules/seo_titles.php:168
+msgid "Homepage &amp; Front page"
+msgstr "Главная страница &amp; "
+
+#: modules/seo_titles.php:170
+#, php-format
+msgid ""
+"You can determine the title and description for the front page by "
+"%1$sediting the front page itself &raquo;%2$s"
+msgstr ""
+"Вы можете определить заголовок и описание для первой страницы с помощью "
+"%1$s, обратив внимание на первую страницу & raquo; %2$s"
+
+#: modules/seo_titles.php:173
+#, php-format
+msgid ""
+"You can determine the title and description for the blog page by %1$sediting "
+"the blog page itself &raquo;%2$s"
+msgstr ""
+"Вы можете определить заголовок и описание для страницы блога с помощью %1$s, "
+"обратив внимание на первую страницу & raquo; %2$s"
+
+#: modules/seo_titles.php:196
+msgid "Custom Post Type Archives"
+msgstr "Архивы своих типов постов"
+
+#: modules/seo_titles.php:197
+msgid ""
+"Note: instead of templates these are the actual titles and meta descriptions "
+"for these custom post type archive pages."
+msgstr ""
+"Примечание: вместо шаблонов это фактические заголовки и мета описания для "
+"этих страниц архива пользовательских типов записей."
+
+#: modules/seo_titles.php:233
+msgid "Author archives settings"
+msgstr "Автор архивов"
+
+#: modules/seo_titles.php:245
+msgid "Date archives settings"
+msgstr "Дата архивов"
+
+#: modules/seo_titles.php:254
+msgid "Special Pages"
+msgstr "Специальные страницы"
+
+#: modules/seo_titles.php:255
+#, php-format
+msgid ""
+"These pages will be %s by default, so they will never show up in search "
+"results."
+msgstr ""
+"По умолчанию эти страницы будут %s, поэтому они никогда не будут "
+"отображаться в результатах поиска."
+
+#: modules/seo_titles.php:256
+msgid "Search pages"
+msgstr "Страницы результатов поиска"
+
+#: modules/seo_titles.php:260
+msgid "404 pages"
+msgstr "404 страница"
+
+#: modules/seo_titles.php:321 modules/seo_titles.php:2759
+msgid "Meta description:"
+msgstr "Мета описание:"
+
+#: modules/seo_titles.php:332 modules/seo_titles.php:2770
+msgid "Keywords"
+msgstr "Ключевые слова"
+
+#: modules/seo_titles.php:382
+msgid "SST SEO"
+msgstr ""
+
+#: modules/seo_titles.php:383
+msgid "Title for Author page"
+msgstr "Заголовок для страниц авторов"
+
+#: modules/seo_titles.php:385
+msgid "Meta description for Author page"
+msgstr "Мета описание для страниц авторов"
+
+#: modules/seo_titles.php:387
+msgid "Meta keywords for Author page"
+msgstr "Мета ключевые слова для страниц авторов"
+
+#: modules/seo_titles.php:547
+#, php-format
+msgid "Search for \"%s\""
+msgstr "Поиск для \"%s\""
+
+#: modules/seo_titles.php:603 modules/seo_titles.php:606
+#: modules/seo_titles.php:609 modules/seo_titles.php:2268
+#, php-format
+msgid "%s Archives"
+msgstr "%s  архив"
+
+#: modules/seo_titles.php:621 modules/seo_titles.php:2230
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: modules/seo_titles.php:859
+msgid ""
+"Admin only notice: this page doesn't show a meta description because it "
+"doesn't have one, either write it for this page specifically or go into the "
+"SEO -> Titles menu and set up a template."
+msgstr ""
+"Замечание только администратора: на этой странице нет мета-описания, либо "
+"напишите его специально для этой страницы, либо зайдите в меню Маркетинг -> "
+"SEO Заголовки и настройте шаблон."
+
+#: modules/seo_titles.php:1799
+#, php-format
+msgid "Page %1$d of %2$d"
+msgstr "Страница %1$d из %2$d"
+
+#: modules/seo_titles.php:1927
+msgid "Variable"
+msgstr "Переменная"
+
+#: modules/seo_titles.php:1928
+msgid "Description"
+msgstr "Описание"
+
+#: modules/seo_titles.php:2228
+#, php-format
+msgid "%1$s, Author at %2$s"
+msgstr "%1$s, Автор из %2$s"
+
+#: modules/seo_titles.php:2229
+#, php-format
+msgid "You searched for %s"
+msgstr "Вы искали  %s"
+
+#: modules/seo_titles.php:2253
+#, php-format
+msgid "%s Archive"
+msgstr "%s архив"
+
+#: modules/sidebars.php:65
+msgid "Create a Sidebar"
+msgstr "Создание сайдбара"
+
+#: modules/sidebars.php:71
+msgid "Name"
+msgstr "Имя"
+
+#: modules/sidebars.php:75
+msgid "Create Sidebar"
+msgstr "Создание сайдбара"
+
+#: modules/sl-icons-manager.php:84
+msgid "Icon Manager"
+msgstr "Менеджер Иконок"
+
+#: modules/sl-icons-manager.php:113
+msgid "Icon Fonts Manager"
+msgstr "Менеджер Иконочных Шрифтов"
+
+#: modules/sl-icons-manager.php:114
+msgid "Upload New Icons"
+msgstr "Загрузить новые иконки"
+
+#: modules/sl-icons-manager.php:119
+msgid "Search by icon name"
+msgstr "Искать иконку по имени"
+
+#: modules/sl-icons-manager.php:119
+msgid "Search"
+msgstr "Поиск"
+
+#: modules/sl-icons-manager.php:128
+msgid "No font icons uploaded. Upload some font icons to display here."
+msgstr ""
+"Иконочные шрифы не загружены. Загрузите иконочные шрифты, чтобы отобразить "
+"их здесь."
+
+#: modules/sl-icons-manager.php:159
+msgid "Delete This Icon Set"
+msgstr "Удалить этот иконочный шрифт"
+
+#: modules/sl-icons-manager.php:217
+msgid "Was not able to retrieve the Font name from your Uploaded Folder"
+msgstr "Не удалось получить имя шрифта из загруженной папки."
+
+#: modules/sl-icons-manager.php:219
+msgid "font_added:"
+msgstr "Шрифт добавлен"
+
+#: modules/sl-icons-manager.php:232
+msgid "Wasn't able to create temp folder"
+msgstr "Не удалось создать временную папку"
+
+#: modules/sl-icons-manager.php:266
+msgid "Unable to extract the file."
+msgstr "Не удалось извлечь файл."
+
+#: modules/sl-icons-manager.php:276
+msgid "Wasn't able to read font name"
+msgstr "Не удалось прочитать имя шрифта"
+
+#: modules/sl-icons-manager.php:279
+msgid "Wasn't able get font files from archive"
+msgstr "Не удалось получить шрифт из Zip архива"
+
+#: modules/sl-icons-manager.php:282
+msgid "Wasn't able to work with Zip Archive"
+msgstr "Не удалось обработать Zip архив"
+
+#: modules/sl-icons-manager.php:332
+msgid "Unable to write css. Upload icons downloaded only from icomoon"
+msgstr "Не удалось записать css. Загрузите шрифт, скачанный с icomoon"
+
+#: modules/sl-icons-manager.php:403
+msgid "You have loaded any Icon Fonts yet"
+msgstr "Вы уже загрузили все иконочные шрифты"
+
+#: modules/topbar_page_options.php:49
+msgid "Error: secure session is invalid. Reload and try again"
+msgstr ""
+"Ошибка: безопасный сеанс недействителен. Перезагрузите и попробуйте снова"
+
+#: modules/topbar_page_options.php:50
+msgid "Saving page options"
+msgstr "Сохранение опций страницы"
+
+#: modules/topbar_page_options.php:91
+msgid "Design"
+msgstr "Дизайн"
+
+#: modules/topbar_page_options.php:92
+msgid "Background"
+msgstr "Фон"
+
+#: modules/topbar_page_options.php:93
+msgid "Sidebar"
+msgstr "Сайтбар"
+
+#: modules/topbar_page_options.php:95
+msgid "SEO"
+msgstr ""
+
+#: modules/topbar_page_options.php:179 modules/topbar_page_options.php:185
+msgid "Live Edit Header"
+msgstr "Редактировать шапку"
+
+#: modules/topbar_page_options.php:218 modules/topbar_page_options.php:224
+msgid "Live Edit Footer"
+msgstr "Редактировать подвал"
+
+#: modules/topbar_page_options.php:682 modules/topbar_page_options.php:706
+msgid "Save Page settings"
+msgstr "Сохранить опции страницы"
+
+#: modules/topbar_page_options.php:758
+msgid "Edit The Header"
+msgstr "Редактировать шапку"
+
+#: modules/topbar_page_options.php:779
+msgid "Edit The Footer"
+msgstr "Редактировать подвал"
+
+#: modules/topbar_page_options.php:840 modules/topbar_page_options.php:880
+msgid "This data was already saved"
+msgstr "Эти данные уже были сохранены"
+
+#: modules/topbar_page_options.php:843 modules/topbar_page_options.php:849
+msgid "Page data saved"
+msgstr "Данные страницы сохранены"
+
+#: modules/topbar_page_options.php:854 modules/topbar_page_options.php:883
+msgid "You can't edit this page"
+msgstr "Вы не можете редактировать эту страницу"
+
+#: modules/topbar_page_options.php:857 modules/topbar_page_options.php:886
+msgid "Wrong page settings"
+msgstr "Ошибочные настройки страницы"
+
+#: modules/topbar_page_options.php:878
+msgid "Composer Block type saved"
+msgstr "Тип Визуального Блока сохранен"
+
+#~ msgid "Add Composer Widget"
+#~ msgstr "Добавить Composer виджет"
+
+#~ msgid "Please select a Composer Widget"
+#~ msgstr "Пожалуйста, выберите Composer виджет"
+
+#~ msgid "Insert Composer Widget"
+#~ msgstr "Вставить Composer  виджет"
+
+#~ msgid "Select a Composer Widget below to add it to your post or page."
+#~ msgstr ""
+#~ "Выберите Composer виджет ниже, чтобы добавить его в свой пост или "
+#~ "страницу."
+
+#~ msgid "Select a Composer Widget"
+#~ msgstr "Выбрать Composer виджет"
+
+#~ msgid "Composer Block for Header"
+#~ msgstr "Визуальный Блок для шапки сайта"
+
+#~ msgid "Composer Block for Footer"
+#~ msgstr "Визуальный Блок для футера сайта"
+
+#~ msgid "Layout Settings"
+#~ msgstr "Настройки макета"
